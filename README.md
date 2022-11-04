@@ -1,3 +1,1 @@
-### Hi there 👋
-
-[![arthurfuzaro github stats](https://github-readme-stats.vercel.app/api?username=arthurfuzaro "![arthurfuzaro github stats")](https://github.com/arthurfuzaro/github-readme-stats)
+https://profile-counter.glitch.me/arthur-fuzaro/count.svg
